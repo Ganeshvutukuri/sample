@@ -40,4 +40,5 @@ class PrimeNumberDemo
    }
 }
 // Program run succefully
-// Program ready to deliver
+// Program ready to delivery
+// Thank you for the in time delivery
